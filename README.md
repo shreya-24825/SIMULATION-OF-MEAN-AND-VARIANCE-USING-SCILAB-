@@ -85,7 +85,7 @@ r=corr(x,y,n1);
 plot2d3('gnn',r);
 
 ```
-### Table
+### Tabulation
 <img width="489" height="845" alt="image" src="https://github.com/user-attachments/assets/ab26e079-85e3-4564-8320-de9360d321f0" />
 
 __OUTPUT GRAPH:__
